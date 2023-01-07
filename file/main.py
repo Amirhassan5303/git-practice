@@ -1,6 +1,5 @@
 print('This file is meant to track git performance')
 def add(a, b):
-    return a + b
+    pass  
 
-print(add(1, 3))    
-
+print([1, 2, 3])
