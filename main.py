@@ -4,4 +4,3 @@ def add(a, b):
 
 print(add(1, 3))    
 x = input('enter your name: ')
-print(x)
